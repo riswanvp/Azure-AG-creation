@@ -6,7 +6,7 @@ variable "azurerm_resource_group" {
 }
 ## Region
 variable "location" {
-    description = "The region which resource ging to be launch"
+    description = "The region which resource going to be launch"
     type = string
     default = "UAE North"
 }
